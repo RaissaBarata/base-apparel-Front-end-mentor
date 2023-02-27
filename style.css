@@ -171,7 +171,6 @@ footer {
 
 @media (max-width: 428px) {
   body {
-    border: 1px solid red;
     background: none;
     grid-template-columns: 100%;
     grid-template-areas:
