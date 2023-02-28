@@ -92,7 +92,8 @@ form {
 .icone-erro {
   position: absolute;
   right: 10rem;
-  bottom: 1rem;
+  bottom: 50%;
+  transform: translateY(50%);
 }
 
 .invisivel {
